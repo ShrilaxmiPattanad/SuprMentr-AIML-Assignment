@@ -1,0 +1,76 @@
+Mini Project Proposal
+
+## **Title**
+
+**Heart Disease Prediction using Machine Learning**
+
+---
+
+## **Problem Statement**
+
+Heart disease is one of the leading causes of death worldwide. Early prediction can help in timely treatment and reduce mortality. Traditional diagnosis methods are time-consuming and may not always be accurate. This project aims to build a machine learning model that predicts the likelihood of heart disease based on patient health data.
+
+---
+
+## **Dataset**
+
+The dataset used is the **UCI Heart Disease Dataset**, which contains medical attributes such as:
+
+* Age
+* Sex
+* Blood Pressure
+* Cholesterol Level
+* Maximum Heart Rate
+* Chest Pain Type
+
+This dataset is widely used for research and provides reliable data for model training.
+
+---
+
+## **Algorithm Used**
+
+The following machine learning algorithms will be implemented:
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+
+These algorithms are chosen for their effectiveness in classification problems and ease of interpretation.
+
+---
+
+## **Methodology**
+
+1. Data Collection and Loading
+2. Data Preprocessing (handling missing values, normalization)
+3. Feature Selection
+4. Model Training using selected algorithms
+5. Model Evaluation using accuracy and confusion matrix
+6. Comparison of model performance
+
+---
+
+## **Expected Output**
+
+* Predict whether a patient is likely to have heart disease
+* Accuracy comparison of different models
+* Graphical representation of results
+* User-friendly prediction system
+
+---
+
+## **Tools & Technologies**
+
+* Python
+* Pandas, NumPy
+* Scikit-learn
+* Matplotlib / Seaborn
+* Jupyter Notebook / Google Colab
+
+---
+
+## **Conclusion**
+
+This project will help in understanding how machine learning can be applied in the healthcare domain for predictive analysis. It aims to create an efficient and accurate model that assists doctors in early diagnosis, thereby improving patient outcomes.
+
+
