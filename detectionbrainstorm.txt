@@ -1,0 +1,34 @@
+📘 Assignment 4 (11/04/2026)
+Detection Brainstorm
+🔹 Objective
+
+To explore real-world applications of detection systems.
+
+🔹 5 Use Cases
+Face detection for attendance systems
+Object detection in self-driving cars
+Security surveillance systems
+Mask detection during pandemics
+Wildlife monitoring
+🔹 Designed Solution: Smart Attendance System
+🔸 Problem
+
+Manual attendance is time-consuming and prone to errors.
+
+🔸 Solution
+
+A face detection-based attendance system that automatically marks attendance.
+
+🔸 Working
+Camera captures image
+Face detection identifies person
+Face recognition matches database
+Attendance is recorded
+🔸 Technologies
+OpenCV
+Python
+Face Recognition libraries
+🔸 Advantages
+Saves time
+Reduces proxy attendance
+Automated record keeping
